@@ -1,4 +1,6 @@
 # bachelor-thesis-genai-scania
+Title: Leveraging Artificial Intelligence for Initiating Transformative Advancements at Scania – A Comprehensive Analysis of Internal Process Optimization
+
 This project explores how Generative AI can be leveraged to optimize internal processes at Scania. Through interviews, secondary data, and analytical frameworks such as the Technology Acceptance Model, Socio-Technical Systems Theory, and Kotter’s Change Management Theory, we highlight both opportunities and challenges of implementing AI in a global industrial organization.
 
 Key Findings:
