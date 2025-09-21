@@ -1,0 +1,1 @@
+# bachelor-thesis-genai-scania
